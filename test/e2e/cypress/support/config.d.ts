@@ -219,6 +219,7 @@ export type Provider =
   | "google"
   | "microsoft"
   | "discord"
+  | "salesforce"
   | "slack"
   | "facebook"
   | "auth0"
